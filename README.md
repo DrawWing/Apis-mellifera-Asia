@@ -6,8 +6,8 @@ The file [Apis-mellifera-Asia.html](https://drawwing.github.io/Apis-mellifera-As
 <https://drawwing.github.io/Apis-mellifera-Asia/Apis-mellifera-Asia.html>
 
 ## Classification of colonies as evolutionary lineages
-
-![Colonies were classified into four evolutionary lineages, as shown in the admixture graph (a) and map (b). Abbreviations: AZ - Azerbaijan, CY - Cyprus, GE - Georgia, IQ - Iraq, IR - Iran, KZ - Kazakhstan, SA - Saudi Arabia, TJ - Tajikistan, TR - Turkey.](/fig/fig-4.png)
+Colonies were classified into four evolutionary lineages, as shown in the admixture graph (a) and map (b). Abbreviations: AZ - Azerbaijan, CY - Cyprus, GE - Georgia, IQ - Iraq, IR - Iran, KZ - Kazakhstan, SA - Saudi Arabia, TJ - Tajikistan, TR - Turkey.  
+![lineage classification](/fig/fig-4.png)
 
 ## Data
 
