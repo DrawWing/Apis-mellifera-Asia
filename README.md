@@ -1,7 +1,8 @@
 
-# Analysis of honey bee wing shape in southwestern Asia
+# Analysis of honey bee wing shape in southwestern Asia  
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17077351.svg)](https://doi.org/10.5281/zenodo.17077351)
 
-Click the link below to access the script for analysis of honey bee (*Apis mellifera*) wings from southwestern Asia. 
+The file [Apis-mellifera-Asia.html](https://drawwing.github.io/Apis-mellifera-Asia/Apis-mellifera-Asia.html)  contains an R Markdown document that analyzes the wing shape of honey bees (*Apis mellifera*) from southwestern Asia.  
 <https://drawwing.github.io/Apis-mellifera-Asia/Apis-mellifera-Asia.html>
 
 The analysis is based on data available at Zenodo:  
