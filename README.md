@@ -5,8 +5,14 @@
 The file [Apis-mellifera-Asia.html](https://drawwing.github.io/Apis-mellifera-Asia/Apis-mellifera-Asia.html) contains an R Markdown document that analyzes the wing shape of honey bees (*Apis mellifera*) from southwestern Asia.\
 <https://drawwing.github.io/Apis-mellifera-Asia/Apis-mellifera-Asia.html>
 
+## Publication
+
+Machlowska J., Kandemir I, Koca A. Ö., Kakhniashvili V., Alattal Y., Alghamdi A. Tofilski A. (2025) Variation of honey bee wings in southwestern Asia. Scientific Data\
+<https://doi.org/10.1038/s41597-025-06234-8>
+
 ## Classification of colonies as evolutionary lineages
-Colonies were classified into four evolutionary lineages, as shown in the admixture graph (a) and map (b). Abbreviations: AZ - Azerbaijan, CY - Cyprus, GE - Georgia, IQ - Iraq, IR - Iran, KZ - Kazakhstan, SA - Saudi Arabia, TJ - Tajikistan, TR - Turkey.  
+
+Colonies were classified into four evolutionary lineages, as shown in the admixture graph (a) and map (b). Abbreviations: AZ - Azerbaijan, CY - Cyprus, GE - Georgia, IQ - Iraq, IR - Iran, KZ - Kazakhstan, SA - Saudi Arabia, TJ - Tajikistan, TR - Turkey.\
 ![lineage classification](/fig/fig-4.png)
 
 ## Data
