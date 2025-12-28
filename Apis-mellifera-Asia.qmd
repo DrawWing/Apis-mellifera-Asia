@@ -27,6 +27,7 @@ date-format: iso
 format: 
   html:
     self-contained: true
+    toc: true
 ---
 
 ```{r setup, include = FALSE}

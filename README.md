@@ -7,7 +7,7 @@ The file [Apis-mellifera-Asia.html](https://drawwing.github.io/Apis-mellifera-As
 
 ## Publication
 
-Machlowska J., Kandemir I, Koca A. Ö., Kakhniashvili V., Alattal Y., Alghamdi A. Tofilski A. (2025) Variation of honey bee wings in southwestern Asia. Scientific Data\
+Machlowska J., Kandemir I, Koca A. Ö., Kakhniashvili V., Alattal Y., Alghamdi A. Tofilski A. (2025) Variation of honey bee wings in southwestern Asia. Scientific Data 12:1979\
 <https://doi.org/10.1038/s41597-025-06234-8>
 
 ## Classification of colonies as evolutionary lineages
